@@ -1,0 +1,4 @@
+batch_id,process_step,equipment_id,step_start_time,step_end_time,operator_id,yield_value,deviation_flag
+B001,CellIsolation,EQ01,2026-06-01T11:30:00,2026-06-01T12:15:00,OP101,88.4,N
+B001,Expansion,EQ02,2026-06-01T12:30:00,2026-06-01T16:30:00,OP102,82.1,N
+B002,CellIsolation,EQ01,2026-06-01T13:30:00,2026-06-01T14:20:00,OP101,79.5,Y
