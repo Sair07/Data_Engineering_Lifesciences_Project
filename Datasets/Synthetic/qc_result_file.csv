@@ -1,0 +1,4 @@
+qc_id,sample_id,batch_id,qc_check_type,qc_result,failure_reason,review_time
+Q001,S001,B001,Sterility,Pass,,2026-06-01T17:00:00
+Q002,S002,B001,ViabilityThreshold,Pass,,2026-06-01T17:15:00
+Q003,S003,B002,PurityThreshold,Fail,Low purity,2026-06-01T17:30:00

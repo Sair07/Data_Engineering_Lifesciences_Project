@@ -1,0 +1,29 @@
+[
+  {
+    "event_id": "E001",
+    "instrument_id": "INST01",
+    "sample_id": "S001",
+    "event_type": "sample_received",
+    "event_timestamp": "2026-06-01T11:15:00Z",
+    "status": "success",
+    "error_code": null
+  },
+  {
+    "event_id": "E002",
+    "instrument_id": "INST01",
+    "sample_id": "S001",
+    "event_type": "assay_started",
+    "event_timestamp": "2026-06-01T13:15:00Z",
+    "status": "success",
+    "error_code": null
+  },
+  {
+    "event_id": "E003",
+    "instrument_id": "INST01",
+    "sample_id": "S001",
+    "event_type": "assay_completed",
+    "event_timestamp": "2026-06-01T14:00:00Z",
+    "status": "success",
+    "error_code": null
+  }
+]
