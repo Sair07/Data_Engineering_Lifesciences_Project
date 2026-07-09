@@ -1,4 +1,0 @@
-sample_id,batch_id,product_type,collection_time,received_time,processing_site,current_status,priority_flag
-S001,B001,CellTherapy,2026-06-01T08:30:00,2026-06-01T11:15:00,Site_A,Received,Y
-S002,B001,CellTherapy,2026-06-01T09:00:00,2026-06-01T12:05:00,Site_A,Processing,N
-S003,B002,CellTherapy,2026-06-01T10:10:00,2026-06-01T13:20:00,Site_B,Completed,N

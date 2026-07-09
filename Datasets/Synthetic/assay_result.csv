@@ -1,4 +1,0 @@
-assay_id,sample_id,test_type,instrument_id,result_value,result_unit,qc_flag,result_time
-A001,S001,Viability,INST01,92.5,percent,Pass,2026-06-01T14:00:00
-A002,S002,CellCount,INST02,1500000,cells_per_ml,Pass,2026-06-01T15:10:00
-A003,S003,Purity,INST01,87.2,percent,Fail,2026-06-01T16:30:00
